@@ -15,3 +15,4 @@ These are also very cheap and can be purchase for £1-2 for a transmitter receiv
 
 ## How to build the code
 ## Schematic
+![Breadboard Layout](fauxmo-esp-maplin-socket_bb.png)
