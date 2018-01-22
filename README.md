@@ -13,6 +13,12 @@ They can be programmed using the normal Arduino IDE
 
 These are also very cheap and can be purchase for £1-2 for a transmitter receiver pair
 
+![MaplinSocket](N78KA_2.jpeg)
+Available from Maplin in the UK, pair available order code N78KA - £9.99
+
 ## How to build the code
 ## Schematic
 ![Breadboard Layout](schematics/fauxmo-esp-maplin-socket_bb.png)
+
+## Setting up the maplin socket
+The socket I used has two small rotary switches. In the code example given, the top dial is set to I and the bottom one to 2. See https://github.com/sui77/rc-switch/wiki/HowTo_OperateLowCostOutlets for more details.
