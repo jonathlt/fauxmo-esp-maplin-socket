@@ -21,10 +21,15 @@ Available from Maplin in the UK, pair available order code N78KA - £9.99
 ## How to build the code
 
 Tested on Arduino 1.8.5 IDE
+
 Download ESPAsyncTCP from https://github.com/me-no-dev/ESPAsyncTCP
+
 Sketch -> Include Library -> Add Zip library
+
 Download fauxmo library from https://bitbucket.org/bibbbi/fauxmoesp/get/5bcd3b483a69.zip
+
 Sketch -> Include Library -> Add Zip library
+
 In tools lwip-variant, choose v1.4 Prebuilt
 
 ## Schematic
